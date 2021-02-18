@@ -682,6 +682,18 @@ label {
 	);
 }
 
+.imageOwner {
+	float: left;
+	width: 100px;
+}
+
+.paragraphOwner {
+	width: 500px;
+	font-size: 15px;
+	text-indent: 20px;
+	margin-top: 15px;
+}
+
 .screeners {
 	position: relative;
 	display: inline-block;
